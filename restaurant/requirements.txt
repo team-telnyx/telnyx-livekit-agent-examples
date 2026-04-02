@@ -1,0 +1,4 @@
+livekit-agents>=1.0.0
+livekit-plugins-openai>=1.0.0
+livekit-plugins-silero>=1.0.0
+telnyx-livekit-plugin @ git+https://github.com/team-telnyx/telnyx-livekit-plugin.git@main#subdirectory=telnyx-livekit-plugin
