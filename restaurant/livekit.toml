@@ -1,5 +1,2 @@
 [project]
 subdomain = "nyc1"
-
-[agent]
-id = "api833a10e6de9c"
